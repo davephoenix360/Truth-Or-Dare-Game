@@ -1,0 +1,6 @@
+This is the first version of the game.
+It is functioning properly.
+
+**** New features to be added ****
+- Allow to take in a player's full name(first and surname)
+- Improve design

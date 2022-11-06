@@ -1,5 +1,5 @@
 // Truth or Dare Game with C++ 
-// First Demo
+// First Version
 
 #include<iostream>
 #include<iomanip>
